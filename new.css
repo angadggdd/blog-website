@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+:root {
+    --main-bg-color: bgirown;
+    --font1: 'Roboto', sans-serif;
+}
+
+.max-width-1 {
+    max-width: 80vw;
+
+}
+
+.max-width-2 {
+    max-width: 60vw;
+
+}
+
+.m-auto {
+    margin: auto;
+
+
+}
+
+.logo{
+    width: 70px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.my-2 {
+    margin-bottom: 12px;
+    margin-top: 32px;
+}
+
+.form-input {
+    padding: 6px 14px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin: 0 13px;
+
+}
+
+.btn {
+    padding: 5px 15px;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: white;
+    background-color: var(--main-bg-color);
+
+}
