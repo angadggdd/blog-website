@@ -77,14 +77,14 @@
     /* background-color: rgb(189, 209, 214); */
     display: flex;
     padding: 0 9px;
-    background-image: url("../img/a4.jpg");
+    background-image: url("img/a4.jpg");
 
 
 }
 
 .home-articles {
     /* height: 400px; */
-    background-image: url("../img/a4.jpg");
+    background-image: url("img/a4.jpg");
     padding: 12px;
 }
 
